@@ -1,0 +1,67 @@
+# Penman《财务报表分析与证券估值》学习笔记
+
+> "Accounting is an information system that provides information to help users make better decisions." — Stephen H. Penman
+
+## 书籍信息
+
+- **书名**：财务报表分析与证券估值（Financial Statement Analysis and Security Valuation）
+- **作者**：Stephen H. Penman
+- **版本**：第5版（或其他你使用的版本）
+
+## 项目概述
+
+本仓库用于记录学习 Penman 教授经典教材的过程，包含：
+
+1. **章节笔记** - 每章核心内容与思考
+2. **概念卡片** - 碎片化的关键概念速记
+3. **估值案例** - 以 [公司名称] 为例，贯穿全书的实践应用
+4. **估值报告** - 随学习进度逐渐完善的估值方法论总结
+
+## 学习进度
+
+### 章节进度
+
+| 章节 | 标题 | 状态 | 日期 | 估值应用 |
+|------|------|------|------|----------|
+| 00 | 估值框架概述 | ⏳ 待开始 | - | - |
+| 01 | 导论与估值框架 | ⏳ 待开始 | - | - |
+| 02 | 财务报表分析框架 | ⏳ 待开始 | - | - |
+| 03 | 估值导论 | ⏳ 待开始 | - | - |
+| ... | ... | ⏳ 待开始 | - | - |
+
+### 估值案例进度
+
+- [ ] 选择估值标的
+- [ ] 收集财务报表
+- [ ] 应用第N章方法
+- [ ] 构建估值模型
+- [ ] 完成估值报告
+
+## 目录结构
+
+```
+docs/
+├── 01-chapter-notes/      # 每章笔记
+├── 02-concept-cards/      # 概念卡片
+├── 03-valuation-report/   # 估值报告
+│   ├── 01-intro.md        # 估值框架介绍
+│   ├── 02-forecasting.md  # 预测方法
+│   ├── 03-valuation-model.md  # 估值模型
+│   └── 04-summary.md      # 最终总结
+└── 04-excel-models/       # Excel估值模型
+    └── company-valuation.xlsx
+
+resources/
+├── slides/                # 课件笔记
+└── papers/                # 参考论文
+```
+
+## 参考资源
+
+- [Penman 官方资源](http://www.rotman.utoronto.ca/~penman/)
+- [哥伦比亚大学课程材料]()
+- [其他补充阅读]()
+
+## License
+
+本笔记仅供学习参考。
